@@ -1,0 +1,26 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+    background-image: ('..//checknget/img/brown.jpg');
+    
+  }
+}
+
+/***************************** No good ************************************/
+.img-fluid {
+    max-width: 100%;}
+    /*height: auto;*/
+    .img-fluid {
+    max-width: 10%;
+    height: 100%;
+}
